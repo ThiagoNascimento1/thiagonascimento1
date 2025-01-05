@@ -1,4 +1,4 @@
-## Olá! Eu sou o Thiago, desenvolvedor front-end!
+## Olá! Eu sou o Thiago, desenvolvedor web!
 
 <div align="center">
   <a href="https://github.com/thiagonascimento1">
